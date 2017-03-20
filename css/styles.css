@@ -1,0 +1,56 @@
+body,
+html {
+    height: 100%;
+}
+
+.navigation {
+    background-color: #053967;
+    padding: 0 10px;
+}
+
+#main img {
+    padding: 10px;
+}
+
+footer.page-footer {
+    background-color: #053967;
+}
+
+.portfolio-section {
+    background-color: #056761;
+}
+
+.portfolio-section h2 {
+    color: white;
+}
+
+#main,
+.section-title {
+    text-align: center;
+}
+
+#main p {
+    font-size: 1.5em;
+}
+
+.card .card-image img {
+    padding: 10px;
+}
+
+.page-footer,
+ul {
+    text-align: center;
+}
+
+.page-footer ul li {
+    display: inline;
+}
+
+.page-footer h2 {
+    font-size: 1.5em;
+    color: white;
+}
+
+.page-footer p {
+    color: white;
+}
