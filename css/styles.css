@@ -4,7 +4,7 @@ html {
 }
 
 .navigation {
-    background-color: #053967;
+    background-color: #c1cad8;
     padding: 0 10px;
 }
 
@@ -13,15 +13,15 @@ html {
 }
 
 footer.page-footer {
-    background-color: #053967;
+    background-color: #c1cad8;
 }
 
 .portfolio-section {
-    background-color: #056761;
+    background-color: #ececec;
 }
 
 .portfolio-section h2 {
-    color: white;
+    color: black;
 }
 
 #main,
@@ -48,9 +48,9 @@ ul {
 
 .page-footer h2 {
     font-size: 1.5em;
-    color: white;
+    color: black;
 }
 
 .page-footer p {
-    color: white;
+    color: black;
 }
